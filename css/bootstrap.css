@@ -4848,6 +4848,10 @@ input[type="button"].btn-block {
   margin-bottom: 0;
 }
 
+.card-text {
+  text-align: justify;
+}
+
 .card-link:hover {
   text-decoration: none;
 }
